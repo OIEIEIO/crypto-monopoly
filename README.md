@@ -22,7 +22,7 @@ See the repository for the complete list of cards. Examples:
 
 <p align="center"> 
 <img src="https://github.com/OIEIEIO/crypto-monopoly/blob/master/Cryptos/dogecoincard.png" height="500" width="315">
-<img src="https://github.com/ned0flanders/crypto-monopoly/blob/master/Exchanges/binancecard.png" height="500" width="315">
+<img src="https://github.com/OIEIEIO/crypto-monopoly/blob/master/Exchanges/binancecard.png" height="500" width="315">
 </p>
 
 ### Chance and Community Chest
